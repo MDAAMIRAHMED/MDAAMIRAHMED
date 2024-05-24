@@ -12,6 +12,9 @@ Here's a little more about me:
 - ⚡Fun fact: I'm a big fan of anime and enjoy watching it. Feel free to reach out if you share the same interest!
 - 📫How to reach me: mohammedaamirahmed5768@gmail.com
 
+<div>
+      <img src="https://github-readme-stats.vercel.app/api?username=MDAAMIRAHMED&show_icons=true&theme=chartreuse-dark&border_color=7fff00">
+</div>
 <!--
 **MDAAMIRAHMED/MDAAMIRAHMED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
