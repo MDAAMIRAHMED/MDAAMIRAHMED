@@ -12,6 +12,14 @@ Here's a little more about me:
 - ⚡Fun fact: I'm a big fan of anime and enjoy watching it. Feel free to reach out if you share the same interest!
 - 📫How to reach me: mohammedaamirahmed5768@gmail.com
 
+## Let's Connect!
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/mohammed-aamir-ahmed-475a48213/" target="_blank"  ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-aamir-ahmed" height="30" width="40" /></a>
+    <a href="mailto:mohammedaamirahmed5768@gmail.com" target="_blank" ><img align="center" src="https://user-images.githubusercontent.com/95289188/183304380-42ea1bad-4cd0-479f-87a2-35e1321d3927.svg" height="35" width="40" /></a>
+</p>
+<br>
+
 <div>
       <img src="https://github-readme-stats.vercel.app/api?username=MDAAMIRAHMED&show_icons=true&theme=chartreuse-dark&border_color=7fff00">
 </div>
