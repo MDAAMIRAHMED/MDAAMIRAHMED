@@ -6,7 +6,11 @@
 
 🌱 As I embark on my journey in the tech industry, I'm eager to collaborate on exciting projects, learn from experienced professionals, and continuously expand my knowledge and skills in the dynamic field of AI and ML.
 
-Let's connect and innovate together!
+Here's a little more about me:
+- 🔭Currently, I'm focusing on **building my portfolio** to showcase my projects and skills, with a keen emphasis on **JavaScript** and **React.js** for creating dynamic and interactive web applications.
+- 🌱I'm enhancing my expertise in **Python** for AI and ML applications, and continuously refining my understanding of **data structures** and **algorithms** to tackle complex problems efficiently.
+- ⚡Fun fact: I'm a big fan of anime and enjoy watching it. Feel free to reach out if you share the same interest!
+- 📫How to reach me: mohammedaamirahmed5768@gmail.com
 
 <!--
 **MDAAMIRAHMED/MDAAMIRAHMED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
